@@ -47,7 +47,7 @@
 ---
 
 
-```markdown
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 300px;">
     ## Hi there 👋, I’m Abdi!
@@ -69,26 +69,3 @@
 </div>
 
 
-
-```markdown
-<table>
-  <tr>
-    <td width="50%">
-      ## Hi there 👋, I’m Abdi!
-
-      ---
-      ### 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 🙋‍♂️
-      - 💻 **Software Engineer | Agentic AI Enthusiast | Python Programming Lover**  
-      - 🔭 Currently working on AI projects, chatbots, and Agentic AI development.  
-      - 🌱 Continuously learning advanced Python, Agentic AI, and software engineering concepts.  
-      - 👯 Excited to collaborate on open-source AI tools and educational projects.  
-      - 🤔 Exploring ways to optimize AI pipelines and build efficient RAG systems.  
-      - 💬 Ask me about Python, AI, and software development in general.  
-      - 💪 Always improving, growing stronger every day 🚀  
-      - 📚 Passionate about exploring new technologies and building impactful projects
-    </td>
-    <td width="50%" align="center">
-      <img src="assets/Rotating_earth_(large).gif" alt="Rotating Earth" width="300" />
-    </td>
-  </tr>
-</table>
