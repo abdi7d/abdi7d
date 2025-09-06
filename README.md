@@ -1,47 +1,42 @@
-## Hi there 👋, I’m Abdi Dabala Yadata (Biko/Biqoo)
+## Hi there 👋, I’m Abdi!
 
-**abdi7d/abdi7d** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
-
-### About Me
-- 🔭 I’m currently working on AI projects, chatbots, and Agentic AI development.
-- 🌱 I’m currently learning advanced Python, AI orchestration, and software engineering concepts.
-- 👯 I’m looking to collaborate on open-source AI tools and educational projects.
-- 🤔 I’m looking for help with optimizing AI pipelines and creating efficient RAG systems.
-- 💬 Ask me about Python, Java, AI, and software development in general.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy creating innovative AI solutions and remixing ideas into something new.
-
-### GitHub Stats
-![Abdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdi7d&show_icons=true&theme=radical)
-
-# 🔔 My Latest GitHub Metrics
-
-Machine Learning, AI, and Software Engineering have always fascinated me. Over the years, I’ve built projects and gained hands-on experience in Python, Jupyter notebooks, AI pipelines, and more. [Check my projects here](https://github.com/abdi7d).
+### 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 🙋‍♂️
+- 💻 **Software Engineer | Agentic AI Enthusiast | Python Lover**  
+- 🔭 Currently working on AI projects, chatbots, and Agentic AI development.  
+- 🌱 Continuously learning advanced Python, Agentic AI, and software engineering concepts.
+- 👯 Excited to collaborate on open-source AI tools and educational projects.  
+- 🤔 Exploring ways to optimize AI pipelines and build efficient RAG systems.  
+- 💬 Ask me about Python, AI, and software development in general.  
 
 ---
 
-## 📖 About Me
-
-- 💻 **Software Engineer | AI Developer | Python Enthusiast**  
-  My socials - [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourprofile)
-
-- 🔭 I’m currently working on **AI-powered multi-agent systems and intelligent pipelines**  
-- 🎯 2025 Goal: **Build AI systems that create real impact**  
-- 📬 How to reach me: **abdi@example.com**  
-- ⚡ Fun fact: I believe **everything starts with "HELLO WORLD"**  
+### ⚡ Tech Stack
+- **Languages:** Python 🐍 | SQL 🗄️  
+- **AI/ML:** LangChain 🔗 | RAG 📚 | Agentic AI 🤖 | HuggingFace 🤗  
+- **Web:** HTML5 🎨 | CSS3 🎭 |  
+- **Tools:** Git 🔧 | GitHub 🐙 | VS Code 💡 | Linux 🐧  
 
 ---
 
-## ⚡ My Latest GitHub Activities
+### 📊 GitHub Stats
+![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdiD21&show_icons=true&theme=tokyonight)  
 
-![Abdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdi7d&show_icons=true&theme=radical)
-
-| Total Contributions | Current Streak | Longest Streak |
-|--------------------|----------------|----------------|
-| 2,126 (Jun 21, 2021 - Present) | 0 (Sep 6) | 55 (Aug 7, 2022 - Sep 30, 2022) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiD21&layout=compact&theme=tokyonight)
 
 ---
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 🐦 [Twitter](https://twitter.com/)  
+- 📧 Email: **your-email@example.com**  
+
+---
+
+👋 Hi, I'm Abdi!  
+💻 Aspiring software engineer | Learning DSA & Python  
+💪 Always improving, growing stronger every day 🚀  
+📚 Passionate about exploring new technologies and building impactful projects
+
 
 ## 📊 My GitHub Languages
 
