@@ -1,4 +1,4 @@
-<img src="assets/Rotating_earth_(large).gif" alt="Motivational GIF" width="200" />
+<img src="assets/Rotating_earth_(large).gif" alt="Motivational GIF" width="2000" />
 
 ## Hi there 👋, I’m Abdi! 
 
