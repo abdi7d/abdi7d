@@ -1,4 +1,31 @@
-## Hi there 👋, I’m Abdi!
+## Hi there 👋, I’m Abdi! 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/AbdiD21" alt="Abdi's Photo" width="200" style="border-radius:50%;" />
+</p>
+
+
+## Hi there 👋, I’m Abdi! <img src="https://avatars.githubusercontent.com/AbdiD21" alt="Abdi's Photo" width="50" style="border-radius:50%; vertical-align:middle;" />
+
+
+## Hi there 👋, I’m Abdi! <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Motivation GIF" width="50" style="vertical-align:middle;" />
+
+
+
+
+<img src="assets/motivation.gif" alt="Motivational GIF" width="200" />
+
+
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Motivational GIF" width="200" />
+
+
+
+
+
+
+
+
+
+
 
 ---
 ### 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 🙋‍♂️
