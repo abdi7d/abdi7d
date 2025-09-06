@@ -64,7 +64,7 @@
     - 📚 Passionate about exploring new technologies and building impactful projects
   </div>
   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="assets/Rotating_earth_(large).gif" alt="Rotating Earth" style="max-width: 100%; height: auto;" />
+    <img src="assets/Rotating_earth_(large).gif" alt="Rotating Earth" width="100" height=100" />
   </div>
 </div>
 
