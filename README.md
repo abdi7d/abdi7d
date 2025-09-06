@@ -34,7 +34,3 @@
 - 📧 Email: **abdid.yadata@gmail.com**  
 
 ---
-
-## 📊 My GitHub Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdi7d&layout=compact&theme=radical)
