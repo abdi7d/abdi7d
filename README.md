@@ -1,7 +1,5 @@
 <img src="assets/Rotating_earth_(large).gif" alt="Rotating Earth" width="2000" height="250" />
 
-## Hi there 👋, I’m Abdi! <img src="assets/image.png" alt="Rotating Earth" width="100" height="100" style="vertical-align:middle; margin-left:10px;" />
-
 ---
 ### 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 🙋‍♂️
 - 💻 **Software Engineer | Agentic AI Enthusiast | Python Programming Lover**  
