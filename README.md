@@ -1,4 +1,4 @@
-<img src="assets/Rotating_earth_(large).gif" alt="Rotating Earth" width="2000" height="250" />
+<img src="assets/AI-Technology-Creation-Concept.gif" alt="AI-Technology-Creation-Concept" width="2000" height="250" />
 
 ---
 ### 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 🙋‍♂️
