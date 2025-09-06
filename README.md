@@ -1,4 +1,4 @@
-<img src="assets/Rotating_earth_(large).gif" alt="Motivational GIF" width="2000" height="200" />
+<img src="assets/Rotating_earth_(large).gif" alt="Rotating Earth" width="2000" height="200" />
 
 ## Hi there 👋, I’m Abdi! 
 
@@ -45,3 +45,30 @@
 - 📧 Email: **abdid.yadata@gmail.com**  
 
 ---
+
+
+
+
+
+<table>
+  <tr>
+    <!-- Left Column: GIF -->
+    <td width="220" valign="top">
+      <img src="assets/Rotating_earth_(large).gif" alt="Rotating Earth" width="200" />
+    </td>
+
+    <!-- Right Column: About Me -->
+    <td valign="top" style="padding-left:20px;">
+### 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 🙋‍♂️
+- 💻 **Software Engineer | Agentic AI Enthusiast | Python Programming Lover**  
+- 🔭 Currently working on AI projects, chatbots, and Agentic AI development.  
+- 🌱 Continuously learning advanced Python, Agentic AI, and software engineering concepts.  
+- 👯 Excited to collaborate on open-source AI tools and educational projects.  
+- 🤔 Exploring ways to optimize AI pipelines and build efficient RAG systems.  
+- 💬 Ask me about Python, AI, and software development in general.  
+- 💪 Always improving, growing stronger every day 🚀  
+- 📚 Passionate about exploring new technologies and building impactful projects
+    </td>
+  </tr>
+</table>
+
