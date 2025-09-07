@@ -8,12 +8,13 @@
 ## 🙋‍♂️ About Me
 - 💻 **Software Engineer | Agentic AI Enthusiast | Python Programming Lover**  
 - 🔭 Currently working on AI projects, chatbots, and Agentic AI development.  
-- 🌱 Continuously learning advanced Python, Agentic AI, and software engineering concepts.
-- 👯 Excited to collaborate on open-source AI tools and educational projects.  
+- 🌱 Continuously learning advanced Python, AI orchestration, and software engineering
+- 👯 Open to collaborating on open-source AI tools and educational projects
 - 🤔 Exploring ways to optimize AI pipelines and build efficient RAG systems.  
 - 💬 Ask me about Python, AI, and software development in general. 
 - 💪 Always improving, growing stronger every day 🚀  
 - 📚 Passionate about exploring new technologies and building impactful projects
+
 
 ---
 ## 🚀 Tech Stack 🖥️  🤖 🌐 🛠️
