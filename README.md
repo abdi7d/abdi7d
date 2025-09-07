@@ -1,7 +1,11 @@
 <img src="assets/AI-Technology-Creation-Concept.gif" alt="AI-Technology-Creation-Concept" width="2000" height="250" />
 
 ---
-# 🙋‍♂️ About Me
+# Hi there👋  I'm Abdi Dabala
+**Welcome to My GitHub Profile!**
+
+---
+## 🙋‍♂️ About Me
 - 💻 **Software Engineer | Agentic AI Enthusiast | Python Programming Lover**  
 - 🔭 Currently working on AI projects, chatbots, and Agentic AI development.  
 - 🌱 Continuously learning advanced Python, Agentic AI, and software engineering concepts.
