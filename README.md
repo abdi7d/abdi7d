@@ -16,7 +16,6 @@
 - 💪 Always improving, growing stronger every day 🚀  
 - 📚 Passionate about exploring new technologies and building impactful projects
 
-
 ---
 ## 🚀 Tech Stack 🖥️  🤖 🌐 🛠️
 
