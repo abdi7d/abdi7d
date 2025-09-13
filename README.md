@@ -43,13 +43,7 @@
  GitHub Stats
 ![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdi7d&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdi7d&layout=compact&theme=tokyonight) -->
 
----
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdi7d&show_icons=true&theme=tokyonight" width="300" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdi7d&theme=tokyonight" width="300" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdi7d&layout=compact&theme=tokyonight" width="300" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdi7d/)  
