@@ -52,9 +52,9 @@
 
 ---
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdi7d&show_icons=true&theme=tokyonight" width="300" />
-  <img src="https://streak-stats.demolab.com?user=abdi7d&theme=tokyonight" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdi7d&layout=compact&theme=tokyonight" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdi7d&show_icons=true&theme=tokyonight" width="280" />
+  <img src="https://streak-stats.demolab.com?user=abdi7d&theme=tokyonight" width="280" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdi7d&layout=compact&theme=tokyonight" width="280" />
 </p>
 ---
 
