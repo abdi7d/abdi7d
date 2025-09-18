@@ -7,12 +7,13 @@
 # Hi there👋  I'm Abdi Dabala
 **Welcome to My GitHub Profile!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdi7d&label=Profile%20Views&color=1E90FF&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/abdi7d?label=Followers&style=for-the-badge&color=8A2BE2) ![GitHub Stars](https://img.shields.io/github/stars/abdi7d?label=Stars&style=for-the-badge&color=4CAF50)
-
 [![Profile Views](https://komarev.com/ghpvc/?username=abdi7d&label=Profile%20Views&color=1E90FF&style=for-the-badge)](https://github.com/abdi7d)
 [![GitHub Followers](https://img.shields.io/github/followers/abdi7d?label=Followers&style=for-the-badge&color=8A2BE2)](https://github.com/abdi7d?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/abdi7d?label=Stars&style=for-the-badge&color=4CAF50)](https://github.com/abdi7d?tab=repositories&q=&type=source&language=&sort=stargazers)
 
+<!--
+![Profile Views](https://komarev.com/ghpvc/?username=abdi7d&label=Profile%20Views&color=1E90FF&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/abdi7d?label=Followers&style=for-the-badge&color=8A2BE2) ![GitHub Stars](https://img.shields.io/github/stars/abdi7d?label=Stars&style=for-the-badge&color=4CAF50)
+-->
 
 ---
 ## 🙋‍♂️ About Me 
@@ -25,7 +26,6 @@
 - 👯 Open to collaborating on open-source AI tools and educational projects
 - 🤔 Exploring ways to optimize AI pipelines and build efficient RAG systems.  
 - 💬 Ask me about Python, AI, and software development in general. 
-- 💪 Always improving, growing stronger every day 🚀  
 - 📚 Passionate about exploring new technologies and building impactful projects
 
 ---
