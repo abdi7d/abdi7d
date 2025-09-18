@@ -1,4 +1,4 @@
-<img src="assets/AI-Technology-Creation-Concept.gif" alt="AI-Technology-Creation-Concept" width="2000" height="250" />
+<img src="assets/AI-Technology-Creation-Concept.gif" alt="AI-Technology-Creation-Concept" width="2000" height="150" />
 
 ---
 <!------- Typing SVG ------->
