@@ -4,8 +4,6 @@
 <!------- Typing SVG ------->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abdi+Dabala;AI+Developer+%7C+Agentic+AI;Passionate+Problem+Solver;Always+Learning+%26+Building;Jesus+Loves+You!)](https://git.io/typing-svg)
 
-
-
 <!------- Typing SVG ------->
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abdi+Dabala;AI+Developer+%7C+Agentic+AI;Web+Developer;Competitive+Programmer;Passionate+Problem+Solver;Always+Learning+%26+Building)](https://git.io/typing-svg)
@@ -15,7 +13,7 @@
 # Hi there👋  I'm Abdi Dabala
 **Welcome to My GitHub Profile!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdi7d&label=Profile%20Views&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=abdi7d&label=Profile%20Views&color=1E90FF&style=for-the-badge) ![GitHub Followers](https://img.shields.io/github/followers/abdi7d?label=Followers&style=for-the-badge&color=8A2BE2) ![GitHub Stars](https://img.shields.io/github/stars/abdi7d?label=Stars&style=for-the-badge&color=4CAF50)
 
 ---
 ## 🙋‍♂️ About Me
