@@ -34,7 +34,7 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-Solved-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Abdi_Dabala)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Solved-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/abdi7dy)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competitions-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdidabala)
-[![Zindi](https://img.shields.io/badge/Zindi-Competitions-6f42c1?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/users/yourusername)
+[![Zindi](https://img.shields.io/badge/Zindi-Competitions-6f42c1?style=for-the-badge&logo=zindi&logoColor=white)](https://zindi.africa/users/abdi7d)
 
 ---
 ## 🚀 Tech Stack 🖥️  🤖 🌐 🛠️
