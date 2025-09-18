@@ -2,7 +2,11 @@
 
 ---
 <!------- Typing SVG ------->
+<!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hi+there+👋%2C+I'm+Abdi+Dabala;AI+Developer+%7C+Agentic+AI;Passionate+Problem+Solver;Always+Learning+%26+Building;Jesus+Loves+You!)](https://git.io/typing-svg)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=ℍ𝕚+𝕥𝕙𝕖𝕣𝕖%2C+𝕀'𝕞+𝔸𝕓𝕕𝕚+𝔻𝕒𝕓𝕒𝕝𝕒;𝔸𝕀+𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣+%7C+𝔸𝕘𝕖𝕟𝕥𝕚𝕔+𝔸𝕀;ℙ𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖+ℙ𝕣𝕠𝕓𝕝𝕖𝕞+𝕊𝕠𝕝𝕧𝕖𝕣)](https://git.io/typing-svg)
+
 
 <!--# Hi there👋  I'm Abdi Dabala-->
 ## 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎!
