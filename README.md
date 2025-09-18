@@ -2,10 +2,10 @@
 
 ---
 <!------- Typing SVG ------->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Abdi+Dabala;AI+Developer+%7C+Agentic+AI;Passionate+Problem+Solver;Always+Learning+%26+Building;Jesus+Loves+You!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hi+there+👋%2C+I'm+Abdi+Dabala;AI+Developer+%7C+Agentic+AI;Passionate+Problem+Solver;Always+Learning+%26+Building;Jesus+Loves+You!)](https://git.io/typing-svg)
 
-# Hi there👋  I'm Abdi Dabala
-**Welcome to My GitHub Profile!**
+<!--# Hi there👋  I'm Abdi Dabala-->
+## Welcome to My GitHub Profile!
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abdi7d&label=Profile%20Views&color=1E90FF&style=for-the-badge)](https://github.com/abdi7d)
 [![GitHub Followers](https://img.shields.io/github/followers/abdi7d?label=Followers&style=for-the-badge&color=8A2BE2)](https://github.com/abdi7d?tab=followers)
@@ -17,7 +17,7 @@
 
 ---
 ## 🙋‍♂️ About Me 
-<p align="center">
+<p>
   <b>AI Developer | Agentic AI |  Software Engineer</b>
 </p>
 
