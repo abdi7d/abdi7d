@@ -25,13 +25,13 @@
   <b>𝙰𝙸 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙰𝚐𝚎𝚗𝚝𝚒𝚌 𝙰𝙸 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛</b>
 </p>
 
+- 🔭 **𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻:** AI projects, chatbots & Agentic AI development  
+- 🌱 **𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:** Advanced Python, AI orchestration & software engineering  
+- 👯 **𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗻𝗴:** Open to open-source AI tools & educational projects  
+- 🤔 **𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴:** Optimizing AI pipelines & building efficient RAG systems  
+- 💬 **𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁:** Python, AI & software development  
+- 📚 **𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁:** Exploring new technologies & building impactful projects
 
-- 🔭 Currently working on AI projects, chatbots, and Agentic AI development.  
-- 🌱 Continuously learning advanced Python, AI orchestration, and software engineering
-- 👯 Open to collaborating on open-source AI tools and educational projects
-- 🤔 Exploring ways to optimize AI pipelines and build efficient RAG systems.  
-- 💬 Ask me about Python, AI, and software development in general. 
-- 📚 Passionate about exploring new technologies and building impactful projects
 
 ---
 ### 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜 & 𝙲𝚘𝚍𝚒𝚗𝚐 𝙱𝚊𝚍𝚐𝚎𝚜
