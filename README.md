@@ -106,7 +106,7 @@
   <a href="mailto:abdid.yadata@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://abdi7d.github.io/My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://twitter.com/abdi7d" target="_blank">
