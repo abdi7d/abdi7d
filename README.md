@@ -32,7 +32,7 @@
 - 💬 **𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁:** Python, AI & software development  
 - 📚 **𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁:** Exploring new technologies & building impactful projects
 
-<!--[My Website](https://abdi7d.github.io/My-Portfolio/)-->
+[My Website](https://abdi7d.github.io/My-Portfolio/)
 [My Website](https://abdidabala.netlify.app/)
 
 ---
