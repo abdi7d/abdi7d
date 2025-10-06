@@ -29,7 +29,7 @@
 - 🌱 **𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:** Advanced Python, AI orchestration & software engineering  
 - 👯 **𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗻𝗴:** Open to open-source AI tools & educational projects  
 - 🤔 **𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴:** Optimizing AI pipelines & building efficient Agentic AI systems  
-- 💬 **𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁:** Python, AI & software development  
+- 💬 **𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁:** Python, Agentic AI & software development  
 - 📚 **𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁:** Exploring new technologies & building impactful projects
 
 [My Website](https://abdi7d.github.io/My-Portfolio/)
