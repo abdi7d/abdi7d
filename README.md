@@ -1,6 +1,6 @@
 <img src="assets/AI-Technology-Creation-Concept.gif" alt="AI-Technology-Creation-Concept" width="2000" height="150" />
 
----
+--- 
 <!------- Typing SVG ------->
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hi+there+👋%2C+I'm+Abdi+Dabala;AI+Developer+%7C+Agentic+AI;Passionate+Problem+Solver;Always+Learning+%26+Building;Jesus+Loves+You!)](https://git.io/typing-svg)
